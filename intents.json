@@ -1,0 +1,142 @@
+{
+  "intents": [
+
+    {"tag":"greeting","patterns":["hi","hello","hey","good morning","good evening"],"responses":["Hello! 👋","Hi there!","Hey! How can I help?"]},
+    {"tag":"bye","patterns":["bye","goodbye","see you"],"responses":["Goodbye! 👋","See you soon!"]},
+    {"tag":"thanks","patterns":["thanks","thank you"],"responses":["You're welcome 😊","Anytime!"]},
+
+    {"tag":"name","patterns":["your name","who are you"],"responses":["I am your AI chatbot 🤖"]},
+    {"tag":"age","patterns":["your age"],"responses":["I don’t age like humans 😄"]},
+
+    {"tag":"how_are_you","patterns":["how are you"],"responses":["I'm doing great! 😊"]},
+    {"tag":"what_doing","patterns":["what are you doing"],"responses":["Helping you learn 🚀"]},
+
+    {"tag":"study_tips","patterns":["how to study","study tips"],"responses":["Make notes + revise daily 📚"]},
+    {"tag":"exam","patterns":["exam tips","prepare exam"],"responses":["Practice previous papers 📝"]},
+    {"tag":"time_management","patterns":["manage time","time table"],"responses":["Follow a fixed schedule ⏳"]},
+
+    {"tag":"college","patterns":["college","university"],"responses":["College is best for learning skills 🎓"]},
+    {"tag":"attendance","patterns":["attendance"],"responses":["Maintain above 75% 📊"]},
+
+    {"tag":"career","patterns":["career","future"],"responses":["Focus on skills + projects 💼"]},
+    {"tag":"goal","patterns":["goal","life goal"],"responses":["Set clear achievable goals 🎯"]},
+
+    {"tag":"motivation","patterns":["motivate me","feeling low"],"responses":["Stay consistent 💪"]},
+    {"tag":"success","patterns":["success tips"],"responses":["Hard work pays off 🚀"]},
+
+    {"tag":"coding","patterns":["coding","programming"],"responses":["Practice daily 👨‍💻"]},
+    {"tag":"python","patterns":["python"],"responses":["Python is beginner-friendly 🐍"]},
+    {"tag":"java","patterns":["java"],"responses":["Java is powerful ☕"]},
+    {"tag":"c","patterns":["c language"],"responses":["C is base of programming 💻"]},
+
+    {"tag":"html","patterns":["html"],"responses":["HTML builds structure 🌐"]},
+    {"tag":"css","patterns":["css"],"responses":["CSS styles websites 🎨"]},
+    {"tag":"javascript","patterns":["js","javascript"],"responses":["JS adds interactivity ⚡"]},
+
+    {"tag":"frontend","patterns":["frontend"],"responses":["Frontend = UI design 🎨"]},
+    {"tag":"backend","patterns":["backend"],"responses":["Backend handles logic ⚙️"]},
+    {"tag":"database","patterns":["database","sql"],"responses":["Use SQL for data 🗄️"]},
+
+    {"tag":"dsa","patterns":["dsa"],"responses":["Practice daily 📊"]},
+    {"tag":"algorithm","patterns":["algorithm"],"responses":["Algorithms solve problems 🔍"]},
+
+    {"tag":"project","patterns":["project idea"],"responses":["Build real-world projects 💡"]},
+    {"tag":"final_year_project","patterns":["final year project"],"responses":["AI chatbot is great choice 🤖"]},
+
+    {"tag":"internship","patterns":["internship"],"responses":["Apply on LinkedIn 💼"]},
+    {"tag":"resume","patterns":["resume"],"responses":["Keep it short & strong 📄"]},
+    {"tag":"linkedin","patterns":["linkedin"],"responses":["Build your profile 💼"]},
+
+    {"tag":"interview","patterns":["interview"],"responses":["Be confident 💬"]},
+    {"tag":"hr","patterns":["hr questions"],"responses":["Prepare basics 🎤"]},
+
+    {"tag":"placement","patterns":["placement"],"responses":["Practice aptitude + coding 🎯"]},
+
+    {"tag":"ai","patterns":["ai"],"responses":["AI is the future 🤖"]},
+    {"tag":"ml","patterns":["machine learning"],"responses":["ML learns from data 📊"]},
+
+    {"tag":"focus","patterns":["focus"],"responses":["Avoid distractions 📵"]},
+    {"tag":"discipline","patterns":["discipline"],"responses":["Discipline = success 🔥"]},
+
+    {"tag":"health","patterns":["health"],"responses":["Stay fit 🏃"]},
+    {"tag":"sleep","patterns":["sleep"],"responses":["Sleep 7-8 hours 😴"]},
+
+    {"tag":"stress","patterns":["stress"],"responses":["Relax and take breaks 🧘"]},
+
+    {"tag":"friend","patterns":["friend"],"responses":["Good friends matter 🤝"]},
+
+    {"tag":"joke","patterns":["joke"],"responses":["Why do coders hate bugs? 😂"]},
+
+    {"tag":"tech","patterns":["technology"],"responses":["Stay updated 📱"]},
+    {"tag":"future","patterns":["future tech"],"responses":["AI & Web3 🚀"]},
+
+    {"tag":"startup","patterns":["startup"],"responses":["Start small 💡"]},
+    {"tag":"business","patterns":["business"],"responses":["Plan and execute 📈"]},
+
+    {"tag":"food","patterns":["food"],"responses":["Eat healthy 🍎"]},
+    {"tag":"water","patterns":["drink water"],"responses":["Stay hydrated 💧"]},
+
+    {"tag":"sports","patterns":["sports"],"responses":["Stay active ⚽"]},
+    {"tag":"music","patterns":["music"],"responses":["Music relaxes 🎵"]},
+
+    {"tag":"movie","patterns":["movie"],"responses":["Watch something inspiring 🎬"]},
+
+    {"tag":"weather","patterns":["weather"],"responses":["Check weather app 🌤️"]},
+
+    {"tag":"time","patterns":["time"],"responses":["Check your system clock ⏰"]},
+    {"tag":"date","patterns":["date"],"responses":["Check today's date 📅"]},
+
+    {"tag":"math","patterns":["math help"],"responses":["Practice formulas 🧮"]},
+    {"tag":"physics","patterns":["physics"],"responses":["Understand concepts ⚡"]},
+    {"tag":"chemistry","patterns":["chemistry"],"responses":["Revise reactions 🧪"]},
+
+    {"tag":"english","patterns":["english"],"responses":["Practice daily 🗣️"]},
+    {"tag":"communication","patterns":["communication"],"responses":["Speak clearly 🔑"]},
+
+    {"tag":"confidence","patterns":["confidence"],"responses":["Believe in yourself 💯"]},
+
+    {"tag":"goal_setting","patterns":["set goal"],"responses":["Write goals ✍️"]},
+
+    {"tag":"habit","patterns":["good habits"],"responses":["Wake up early 🌅"]},
+
+    {"tag":"morning","patterns":["morning routine"],"responses":["Start your day strong ☀️"]},
+
+    {"tag":"night","patterns":["night routine"],"responses":["Sleep on time 🌙"]},
+
+    {"tag":"productivity","patterns":["productivity"],"responses":["Avoid procrastination 🚀"]},
+
+    {"tag":"procrastination","patterns":["lazy"],"responses":["Start small tasks ⚡"]},
+
+    {"tag":"revision","patterns":["revision"],"responses":["Revise regularly 🔁"]},
+
+    {"tag":"notes","patterns":["notes"],"responses":["Make short notes 📒"]},
+
+    {"tag":"practice","patterns":["practice"],"responses":["Practice makes perfect 💯"]},
+
+    {"tag":"goal_focus","patterns":["stay focused"],"responses":["Remove distractions 📵"]},
+
+    {"tag":"daily_routine","patterns":["daily routine"],"responses":["Follow schedule 📅"]},
+
+    {"tag":"break","patterns":["break"],"responses":["Take short breaks ☕"]},
+
+    {"tag":"energy","patterns":["low energy"],"responses":["Rest and recharge ⚡"]},
+
+    {"tag":"internet","patterns":["internet"],"responses":["Use it wisely 🌐"]},
+
+    {"tag":"social_media","patterns":["social media"],"responses":["Limit usage 📵"]},
+
+    {"tag":"gaming","patterns":["game"],"responses":["Play in limit 🎮"]},
+
+    {"tag":"life","patterns":["life"],"responses":["Enjoy the journey 🌍"]},
+
+    {"tag":"happiness","patterns":["happy"],"responses":["Stay positive 😊"]},
+
+    {"tag":"sad","patterns":["sad"],"responses":["Everything will be okay 💙"]},
+
+    {"tag":"anger","patterns":["angry"],"responses":["Stay calm 😌"]},
+
+    {"tag":"help","patterns":["help"],"responses":["I am here to help 🤝"]},
+
+    {"tag":"default","patterns":["random"],"responses":["I’m still learning 😅"]}
+  ]
+}
